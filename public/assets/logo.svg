@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect width="200" height="100" rx="10" fill="#ffffff"/>
+  <text x="30" y="60" font-family="Arial" font-size="32" font-weight="bold" fill="#ff385c">ALX</text>
+  <text x="85" y="60" font-family="Arial" font-size="18" fill="#484848">Listing</text>
+  <polygon points="160,30 180,50 160,70" fill="#ff385c"/>
+</svg>
